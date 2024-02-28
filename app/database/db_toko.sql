@@ -87,7 +87,7 @@ CREATE TABLE `tbl_pengguna` (
 --
 
 INSERT INTO `tbl_pengguna` (`id`, `email`, `username`, `password`, `nama`, `user_level`) VALUES
-(1, 'admin@gmail.com', 'ikoalmas', 'admin', 'ikoalmas', 'admin');
+(1, 'admin@gmail.com', 'admin', 'admin', 'admin', 'admin');
 
 --
 -- Indexes for dumped tables
